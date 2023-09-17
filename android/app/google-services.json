@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206588416845",
+    "project_id": "flashchat-5093d",
+    "storage_bucket": "flashchat-5093d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206588416845:android:2d68ce6bc94047ba639d04",
+        "android_client_info": {
+          "package_name": "com.vedant.FlashChat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0LVnBG4j70DnNf1wR7S_VMoALVIyqquY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
